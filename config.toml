@@ -1,4 +1,4 @@
-baseURL = 'http://padsec.com/'
+baseURL = 'https://padsec.com/'
 theme = "risotto"
 title = "Pratical & Defensive Security Conference"
 author = ""
