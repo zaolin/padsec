@@ -1,3 +1,6 @@
+---
+title: About
+---
 The Practical And Defensive SEcurity Conference (PADSEC) is an emerging
 community that aims to understand real-world security problems and their
 technical solutions.  PADSEC is intended as a pop-up conference that _pops-up_
