@@ -3,6 +3,7 @@ at the Open Source Firmware Conference (OSFC).
 
 Important links:
 - CFP: https://talks.osfc.io/osfc2021/cfp
+- Registration: https://tickets.osfc.io/
 
 Important dates:
 - Submission deadline: October 3, 2021
