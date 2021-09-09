@@ -41,10 +41,15 @@ icon = "fab fa-github"
 title = "GitHub"
 url = "https://github.com/zaolin/padsec"
 
-#[[params.socialLinks]]
-#icon = "fas fa-envelope"
-#title = "Email"
-#url = "mailto:example@example.com"
+[[params.socialLinks]]
+icon = "fab fa-youtube"
+title = "YouTube"
+url = "https://www.youtube.com/channel/UCVL5qGL2cg4JYYbskW2fp5Q"
+
+[[params.socialLinks]]
+icon = "fas fa-envelope"
+title = "Email"
+url = "mailto:padsec@immu.ne"
 
 [menu]
 
