@@ -1,6 +1,6 @@
 baseURL = 'https://padsec.com/'
 theme = "risotto"
-title = "Pratical & Defensive Security Conference"
+title = "Practical & Defensive Security Conference"
 author = ""
 copyright = "© 2021 PADSEC"
 paginate = 3
